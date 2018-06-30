@@ -1,0 +1,28 @@
+body{
+
+  background-image:url('../img/image1.jpeg');
+ position:relative;
+    opacity:0.90;
+    background-position:center;
+    background-size:cover;
+  min-height:100%;
+  margin-top:60px;
+  zoom: 72%
+}
+.box{
+  background-color: ;
+  font-family: Monospace;
+}
+h3 {
+  color:#3498DB;
+}
+h2 {
+  color:#3498DB;
+}
+.imgSize {
+  width : 1047px;
+}
+
+hr{
+  border-color: #D0D3D4;
+}
